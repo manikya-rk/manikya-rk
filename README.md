@@ -4,7 +4,7 @@
 <img align="right" alt="Data Analyst" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsGc9AltzgXeDCjCjGgEHDrieosWwdkKL5xA&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikya-rk&label=Profile%20views&color=0e75b6&style=flat" alt="manikya-rk" /> </p>
 
-- 🌱 I’m currently learning **Power BI, Tableau**
+- 🌱 I’m currently learning **Power BI, Tableau**, **AZURE**, **MERN**
 
 - 📫 How to reach me **manikyakolekar@gmail.com**
 
