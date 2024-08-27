@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/C5612AQEnmjfw3RyAIQ/article-cover_image-shrink_720_1280/0/1588817317718?e=2147483647&v=beta&t=ndLS7D3xZ2fKywC-M6u6aAmymQK7De1F_5dWaqKe6Is)]
 <h1 align="center">Hi 👋, I'm Manikya Ravindra Kolekar</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">Data Science Enthusiast from India</h3>
 <img align="right" alt="Data Analyst" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsGc9AltzgXeDCjCjGgEHDrieosWwdkKL5xA&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikya-rk&label=Profile%20views&color=0e75b6&style=flat" alt="manikya-rk" /> </p>
 
